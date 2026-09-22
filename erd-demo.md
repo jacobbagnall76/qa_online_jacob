@@ -15,7 +15,5 @@ erDiagram
     }
     AUTHOR ||--o{ BOOK : writes
 
- ```mermaid
-erDiagram
-    AUTHOR ||--o{ BOOK : writes
+ 
 ```
